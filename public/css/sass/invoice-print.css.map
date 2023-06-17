@@ -1,0 +1,15 @@
+{
+    "version": 3,
+    "mappings": "AAIA;;;;;;;;;;;EAWE",
+    "sources": [
+        "invoice-print.scss",
+        "config/_imports.scss",
+        "config/_functions.scss",
+        "config/_helpers.scss",
+        "config/_mixins.scss",
+        "config/_directional.scss",
+        "config/_variables.scss"
+    ],
+    "names": [],
+    "file": "invoice-print.css"
+}
